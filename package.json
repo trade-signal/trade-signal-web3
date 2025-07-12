@@ -1,0 +1,22 @@
+{
+  "name": "trade-signal-web3",
+  "version": "0.0.1",
+  "description": "trade signal for web3",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trade-signal/trade-signal-web3.git"
+  },
+  "keywords": [
+    "web3",
+    "ethereum",
+    "solana",
+    "trade-signal"
+  ],
+  "author": "yzqzy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/trade-signal/trade-signal-web3/issues"
+  },
+  "homepage": "https://github.com/trade-signal/trade-signal-web3#readme"
+}
