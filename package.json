@@ -2,7 +2,10 @@
   "name": "trade-signal-web3",
   "version": "0.0.1",
   "description": "trade signal for web3",
-  "scripts": {},
+  "scripts": {
+    "core:dev": "pnpm --filter @trade-signal/core start:dev",
+    "core:build": "pnpm --filter @trade-signal/core build"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/trade-signal/trade-signal-web3.git"
